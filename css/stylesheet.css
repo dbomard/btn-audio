@@ -25,45 +25,54 @@ h1, p {
 #btn1a{
     width: fit-content;
     background-image: url('../img/logo-musique-portail-logo-1a.png');
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 #btn1b{
     width: fit-content;
     background-image: url('../img/logo-musique-portail-logo-1b.png');
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 #btn1c{
     width: fit-content;
     background-image: url('../img/logo-musique-portail-logo-1c.png');
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 #btn2a{
     width: fit-content;
     background-image: url('../img/logo-musique-portail-logo-2a.png');
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 #btn2b{
     width: fit-content;
     background-image: url('../img/logo-musique-portail-logo-2b.png');
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 #btn2c{
     width: fit-content;
     background-image: url('../img/logo-musique-portail-logo-2c.png');
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 #btn2d{
     width: fit-content;
     background-image: url('../img/logo-musique-portail-logo-2d.png');
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 #btn3a{
     width: fit-content;
     background-image: url('../img/logo-musique-portail-logo-3a.png');
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 #btn4a{
     width: fit-content;
     background-image: url('../img/logo-musique-portail-logo-4a.png');
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
